@@ -50,8 +50,9 @@ fun_fact: I debug faster with coffee ☕
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=sahelstha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=sahelstha&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/profile_details.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/most_commit_language.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/stats.svg" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=sahelstha&theme=tokyonight&hide_border=true" width="60%"/>
 
