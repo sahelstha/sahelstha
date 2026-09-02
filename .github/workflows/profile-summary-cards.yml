@@ -1,4 +1,4 @@
-name: Generate Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
@@ -11,9 +11,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
-      - uses: vn7n24fzsl/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: sahelstha
-          theme: tokyonight
+          USERNAME: sahelstha
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
