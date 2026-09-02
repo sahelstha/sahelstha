@@ -16,21 +16,32 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## #About Me
 
-```yaml
-name: Sahel Shrestha
-role: Student · Aspiring Full Stack Developer
-currently_learning: [Django, TanStack Router, TanStack Query]
-currently_building: React + Spring Boot projects
-looking_to_collaborate: full stack web development projects
-contact: sahel.xtha@gmail.com
-fun_fact: I debug faster with coffee ☕
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/_Student-6366F1?style=for-the-badge&logoColor=white&labelColor=6366F1"/>
+<img src="https://img.shields.io/badge/Aspiring-Full%20Stack%20Developer-EC4899?style=for-the-badge"/>
+
+<br/><br/>
+
+🔭&nbsp; Building **React + Spring Boot** projects
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🌱&nbsp; Learning **Django, TanStack Router & Query**
+&nbsp;&nbsp;•&nbsp;&nbsp;
+👯&nbsp; Open to **full stack collabs**
+
+<br/><br/>
+
+💬 &nbsp;Ask me about **HTML · CSS · JS · Java · React · Spring Boot**
+
+⚡ &nbsp;*I debug faster with coffee* ☕
+
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## #Tech Stack
 
 <div align="center">
 
@@ -46,7 +57,7 @@ fun_fact: I debug faster with coffee ☕
 
 <br/>
 
-## 📊 GitHub Analytics
+## #GitHub Analytics
 
 <div align="center">
 
@@ -60,15 +71,13 @@ fun_fact: I debug faster with coffee ☕
 
 <br/>
 
-## 🐍 Contribution Graph
+## #Contribution Graph
 
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> *Powered by GitHub Actions (`Platane/snk`) — auto-updates daily.*
 
 <br/>
 
