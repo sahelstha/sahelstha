@@ -50,9 +50,9 @@ fun_fact: I debug faster with coffee ☕
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/profile_details.svg" width="100%" />
-<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/most_commit_language.svg" width="48%" />
-<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/output/github-summary-cards/stats.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/sahelstha/sahelstha/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=sahelstha&theme=tokyonight&hide_border=true" width="60%"/>
 
