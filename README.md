@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=250&section=header&text=Sahel%20Shrestha&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=250&section=header&text=Sahel%20Shrestha&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18&fontFamily=Poppins)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress+%F0%9F%9A%80;React+%2B+Spring+Boot+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress+%F0%9F%9A%80;React+%2B+Spring+Boot+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,11 @@
 
 <br/>
 
-## #About Me
+<div align="center">
+
+![About Me](https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=55&text=About%20Me&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=65&fontFamily=Poppins&width=300)
+
+</div>
 
 <div align="center">
 
@@ -41,7 +45,11 @@
 
 <br/>
 
-## #Tech Stack
+<div align="center">
+
+![Tech Stack](https://capsule-render.vercel.app/api?type=rect&color=EC4899&height=55&text=Tech%20Stack&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=65&fontFamily=Poppins&width=300)
+
+</div>
 
 <div align="center">
 
@@ -57,7 +65,11 @@
 
 <br/>
 
-## #GitHub Analytics
+<div align="center">
+
+![GitHub Analytics](https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=55&text=GitHub%20Analytics&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=65&fontFamily=Poppins&width=340)
+
+</div>
 
 <div align="center">
 
@@ -71,7 +83,11 @@
 
 <br/>
 
-## #Contribution Graph
+<div align="center">
+
+![Contribution Graph](https://capsule-render.vercel.app/api?type=rect&color=EC4899&height=55&text=Contribution%20Graph&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=65&fontFamily=Poppins&width=360)
+
+</div>
 
 <div align="center">
 
